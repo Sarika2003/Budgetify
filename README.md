@@ -1,7 +1,8 @@
 # Budgetify
 Budgetify is an intuitive web app designed to help users take control of their finances.It allows users to create, update, track, and delete budgets and expenses, with the ability to reset all expenses for a fresh start. The app provides a clean, intuitive UI for easy financial management.
 # Project OverView
-![Screenshot 2025-01-30 150058](https://github.com/user-attachments/assets/ed489307-fccd-4e12-ba29-545c7892925e)
+![Screenshot 2025-01-30 150538](https://github.com/user-attachments/assets/089c2b65-aee4-4c86-9072-81bff13f2e8b)
+
 
 # Features
  - Budget Management
